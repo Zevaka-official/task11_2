@@ -1,0 +1,11 @@
+target/
+output/
+release/
+debug/
+*log
+*.pyc
+*~
+thumbs.db
+.DS_Store
+/venv
+.idea
